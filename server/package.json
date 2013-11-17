@@ -1,0 +1,23 @@
+{
+  "name": "StackOverflow User Follow",
+  "version": "0.0.0",
+  "description": "An application that allows you to follow users from the Stackoverflow platform",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IonicaBizau/stackoverflow-user-follow.git"
+  },
+  "keywords": [
+    "stackoverflow",
+    "users",
+    "follow"
+  ],
+  "dependencies": {
+    "johnnys-node-static": "*"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/stackoverflow-user-follow/issues"
+  }
+}
